@@ -1,6 +1,6 @@
 
 
-**👨‍💻 Hello, I'm Diego Martinez, a technology enthusiast and coding lover. My world revolves around creating innovative solutions and tackling interesting challenges!
+👨‍💻 Hello, I'm Diego Martinez, a technology enthusiast and coding lover. My world revolves around creating innovative solutions and tackling interesting challenges!
 
 **🚀 I've worked on a variety of projects where I've used: python, php, javaScript, mysql, mongodb, Node, Git, Github, and others.**
 
