@@ -9,6 +9,4 @@
 **📫 Do you have an exciting idea in mind or just want to chat about code? Feel free to get in touch!**
 
 **Together, we can turn lines of code into incredible solutions! 🌟**
-Languages:
-                 
                  
