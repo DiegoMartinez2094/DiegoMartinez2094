@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="280" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"  />
+<img align="right" height="260" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"  />
 
 ###
 <div align="center">
