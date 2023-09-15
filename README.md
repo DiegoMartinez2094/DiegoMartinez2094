@@ -10,8 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoMartinez2094&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/DiegoMartinez2094/DiegoMartinez2094/output/snake.svg" alt="Snake animation" />
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="12" />
