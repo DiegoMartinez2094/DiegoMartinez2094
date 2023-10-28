@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Diego Martinez and I'm a software developer student, from Colombia Buacaramanga</h2>
+<h2 align="center">Hi 👋! My name is Diego Martinez and I'm a software developer student, from Colombia Bucaramanga</h2>
 
 ###
 
